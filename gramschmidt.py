@@ -1,7 +1,7 @@
 import math
 
 
-def inner():
+def gram():
     v1 = float(input("Enter 1st component: "))
     v2 = float(input("Enter 2nd component: "))
     v3 = float(input("Enter 3rd component: "))
@@ -14,4 +14,4 @@ def inner():
     print(v3 - inner * u3)
 
 
-inner()
+gram()
