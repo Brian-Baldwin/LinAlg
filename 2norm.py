@@ -1,4 +1,3 @@
-import math
 def norm():
     v1 = float(input("Enter 1st component: "))
     v2 = float(input("Enter 2nd component: "))
